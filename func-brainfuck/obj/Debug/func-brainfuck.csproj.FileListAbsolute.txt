@@ -1,0 +1,15 @@
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\bin\Debug\nunit.engine.dll
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\bin\Debug\nunit.engine.api.dll
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\bin\Debug\nunit.engine.core.dll
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\bin\Debug\brainfuck.exe.config
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\bin\Debug\brainfuck.exe
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\bin\Debug\brainfuck.pdb
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\bin\Debug\nunit.framework.dll
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\bin\Debug\nunitlite.dll
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\obj\Debug\func-brainfuck.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\obj\Debug\func-brainfuck.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\obj\Debug\func-brainfuck.csproj.CopyComplete
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\obj\Debug\brainfuck.exe
+C:\Users\Dmitry\source\repos\BrainFuck\func-brainfuck\obj\Debug\brainfuck.pdb
